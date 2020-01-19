@@ -1,2 +1,0 @@
-# teenie-test
-teenie
